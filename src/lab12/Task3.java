@@ -10,7 +10,7 @@ class MovingCircle extends JFrame {
     private int pace = 50;
     private boolean horizontal = true;
     public MovingCircle() {
-        super("Круг двигается");
+        super("Круг движется");
         setSize(1920, 1080);
         setLocationRelativeTo(null);
 
